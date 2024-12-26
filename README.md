@@ -1,2 +1,2 @@
 # Assmebly
-this repo will have simple assembly tasks using EMU8086
+this repo will have simple assembly programs using EMU8086
